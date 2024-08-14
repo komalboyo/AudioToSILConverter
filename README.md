@@ -1,5 +1,5 @@
-# AudioToSILConverter
-
+# AudioToISLConverter
+Gestura: Bridging Communication, One Gesture at a Time
 
 Problem Statement ID: 
 1715
